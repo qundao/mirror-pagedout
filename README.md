@@ -11,6 +11,7 @@
 ## Download Issues
 
 <!-- list-start -->
+- *Mon, 27 Jul 2026*, Paged Out! #9 [link](https://pagedout.institute/download/PagedOut_009.pdf)
 - *Thu, 19 Feb 2026*, Paged Out! #8 [link](https://pagedout.institute/download/PagedOut_008.pdf)
 - *Sat, 04 Oct 2025*, Paged Out! #7 [link](https://pagedout.institute/download/PagedOut_007.pdf)
 - *Sat, 29 Mar 2025*, Paged Out! #6 [link](https://pagedout.institute/download/PagedOut_006.pdf)
